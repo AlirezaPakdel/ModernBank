@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=74fcfbc6_002D08fc_002D41e1_002Daeed_002D98d9ee2032a8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckAccountBalanceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::15AE612D-0850-49B1-89EE-7CAE8EA18F29::net9.0::TestBanck.Tests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8BE104C8-1986-4382-A54C-C87B1F507B61::net9.0::TestProject1.UnitTest1.CheckAccountBalanceTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8BE104C8-1986-4382-A54C-C87B1F507B61::net9.0::TestProject1.UnitTest1.WithdrawTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8BE104C8-1986-4382-A54C-C87B1F507B61::net9.0::TestProject1.UnitTest1.DepositTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8BE104C8-1986-4382-A54C-C87B1F507B61::net9.0::TestProject1.UnitTest1.LoanRequest2Test&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
